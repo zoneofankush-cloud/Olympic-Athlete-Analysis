@@ -22,4 +22,4 @@ This project analyzes Olympic athlete participation and performance trends using
 * **PowerPoint** for presentation.
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](./dashboards/dashboard_screenshot.png)
+![Dashboard Screenshot](./dashboards/3.dashboard_screenshot.png)
